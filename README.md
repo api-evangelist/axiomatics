@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Axiomatics is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://axiomatics.com/
+Axiomatics provides dynamic authorization solutions for applications, APIs, data and AI. Their platform enables fine-grained, policy-based access control across enterprise environments, supporting use cases in finance, healthcare, government, manufacturing and more. The company offers an Authorization Hub, Access Decision Services, and tools for policy authoring, enforcement, and governance, helping organizations implement zero‑trust and compliance frameworks.
+
+**Areas:** Company · Authorization · Policy · ZeroTrust · Compliance · Enterprise
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://axiomatics.com/)
+- [Documentation](https://docs.axiomatics.com/)
+- [Support](https://support.axiomatics.com/_hcms/mem/login?redirect_url=https%3A%2F%2Fsupport.axiomatics.com%2F)
+- [Blog](https://axiomatics.com/blog/)
+- [Privacy policy](https://axiomatics.com/privacy-policy/)
+- [GitHub](https://github.com/axiomatics)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/axiomatics/](https://apis.io/providers/axiomatics/).
